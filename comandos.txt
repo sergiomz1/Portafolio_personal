@@ -1,0 +1,13 @@
+->npm create astro@latest
+
+->npm install
+->npm install -D tailwindcss postcss autoprefixer
+->npx tailwindcss init
+->npm install typescript
+
+
+->npm install flowbite
+
+->npm run dev
+
+->npm run build
